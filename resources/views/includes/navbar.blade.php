@@ -2,7 +2,7 @@
 <div class="container">
   <nav class="row navbar navbar-expand-lg navbar-light bg-white">
     <a href="{{ route('home') }}" class="navbar-brand">
-      <img src="{{ url('frontend/images/logo.png') }}" alt="Logo NOMADS" />
+      <img src="{{ url('frontend/images/gegetour.jpeg') }}" alt="Logo NOMADS" />
     </a>
     <button
       class="navbar-toggler navbar-toggler-right"

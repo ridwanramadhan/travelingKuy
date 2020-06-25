@@ -411,7 +411,7 @@
                           <td style="width: 50px;">
                             <img src="{{ url('frontend/images/ic_support@2x.png') }}" width="50px">
                           </td>
-                          <td style="font-size: 18px; padding-left: 10px; color: #071C4D;font-family: Assistant, Helvetica, Arial, sans-serif"> support@nomads.id <br> 021-2019-2022 </td>
+                          <td style="font-size: 18px; padding-left: 10px; color: #071C4D;font-family: Assistant, Helvetica, Arial, sans-serif"> support@gegetour.id <br> 021-2019-2022 </td>
                         </tr>
                       </table>
                     </td>
@@ -459,7 +459,7 @@
                 <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%">
                   <tr>
                     <td align="center" style="font-size:0px;padding:10px 25px;padding-top:30px;padding-right:25px;padding-bottom:0px;padding-left:25px;word-break:break-word;">
-                      <div style="font-family:Assistant, Helvetica, Arial, sanf-serif;font-size:18px;line-height:1;text-align:center;color:#888B93;">2019 Nomads Copyright All Rights Reserved.</div>
+                      <div style="font-family:Assistant, Helvetica, Arial, sanf-serif;font-size:18px;line-height:1;text-align:center;color:#888B93;">2020 GegeTour Copyright All Rights Reserved.</div>
                     </td>
                   </tr>
                 </table>

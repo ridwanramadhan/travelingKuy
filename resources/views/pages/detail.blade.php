@@ -127,7 +127,7 @@
               <tr>
                 <th width="50%">Date of Departure</th>
                 <td width="50%" class="text-right">
-                  {{ \Carbon\Carbon::create($item->date_of_departure)->format('F n, Y') }}
+                  {{ \Carbon\Carbon::create($item->departure_date)->format('d F Y') }}
                 </td>
               </tr>
               <tr>

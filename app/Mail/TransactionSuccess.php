@@ -31,8 +31,8 @@ class TransactionSuccess extends Mailable
     public function build()
     {
         return $this
-        ->from('hi@belajarkoding.com', 'NOMADS')
-        ->subject('Tiket NOMADS Anda')
+        ->from('admin@gegetour.com', 'GegeTour')
+        ->subject('Tiket GegeTour Anda')
         ->view('email.transaction-success');
     }
 }
