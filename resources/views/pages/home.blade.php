@@ -8,7 +8,7 @@ GegeTour
 <!-- Header -->
 <header class="text-center">
   <h1>
-    Explore The Beautiful World
+    Create Your Kind Of Holiday
     <br />
     As Easy One Click
   </h1>
@@ -129,11 +129,11 @@ GegeTour
           <div class="card card-testimonial text-center">
             <div class="testiominal-content">
               <img
-                src="frontend/images/testimonial-1.png"
+                src="frontend/images/Ridwan.png"
                 alt="User"
                 class="mb-4 rounded-circle"
               />
-              <h3 class="mb-4">Angga Risky</h3>
+              <h3 class="mb-4">Muhammad Ridwan Ramadhan</h3>
               <p class="testimonial">
                 “ It was glorious and I could not stop to say wohooo for
                 every single moment Dankeeeeee “
@@ -141,7 +141,7 @@ GegeTour
             </div>
             <hr />
             <p class="trip-to mt-2">
-              Trip to Ubud
+              Trip to Singapore
             </p>
           </div>
         </div>
@@ -149,11 +149,11 @@ GegeTour
           <div class="card card-testimonial text-center">
             <div class="testiominal-content">
               <img
-                src="frontend/images/testimonial-2.png"
+                src="frontend/images/Arifah.png"
                 alt="User"
                 class="mb-4 rounded-circle"
               />
-              <h3 class="mb-4">Shayna</h3>
+              <h3 class="mb-4">Arifah Fariza</h3>
               <p class="testimonial">
                 “ The trip was amazing and I saw something beautiful in that
                 Island that makes me want to learn more “
@@ -161,7 +161,7 @@ GegeTour
             </div>
             <hr />
             <p class="trip-to mt-2">
-              Trip to Nusa Penida
+              Trip to Raja Ampat
             </p>
           </div>
         </div>
@@ -169,11 +169,11 @@ GegeTour
           <div class="card card-testimonial text-center">
             <div class="testiominal-content">
               <img
-                src="frontend/images/testimonial-3.png"
+                src="frontend/images/Ami.png"
                 alt="User"
                 class="mb-4 rounded-circle"
               />
-              <h3 class="mb-4">Shabrina</h3>
+              <h3 class="mb-4">Nur Aminah</h3>
               <p class="testimonial">
                 “ I loved it when the waves was shaking harder — I was
                 scared too “
@@ -181,7 +181,7 @@ GegeTour
             </div>
             <hr />
             <p class="trip-to mt-2">
-              Trip to Karimun Jawa
+              Trip to Bali
             </p>
           </div>
         </div>

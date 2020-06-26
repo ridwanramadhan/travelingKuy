@@ -113,7 +113,7 @@
                         <tbody>
                           <tr>
                             <td style="width:150px;">
-                              <img alt="" height="auto" src="{{ url('frontend/images/logo@2x.png') }}" style="border:none;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" width="150" />
+                              <img alt="" height="auto" src="{{ url('frontend/images/gegetour.jpeg') }}" style="border:none;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" width="150" />
                             </td>
                           </tr>
                         </tbody>
